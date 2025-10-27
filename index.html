@@ -494,7 +494,7 @@
             bottom: 0;
             width: 500px;
             height: 600px;
-          
+
             background-size: contain;
             opacity: 0;
             animation: fadeInRight 1s ease 1.2s forwards;
@@ -1189,7 +1189,7 @@
         }
 
         @media (max-width: 768px) {
-           .hero {
+            .hero {
                 margin-top: 50px;
             }
 
@@ -1715,14 +1715,7 @@
         <div class="container">
             <h2>Contact Me</h2>
             <div class="contact-grid">
-                <div class="contact-card" onclick="callPhone()">
-                    <div class="contact-icon">
-                        <i class="fas fa-phone"></i>
-                    </div>
-                    <h3>Phone</h3>
-                    <p>+91 9309784119</p>
-                    <p><small>Click to call</small></p>
-                </div>
+
                 <div class="contact-card" onclick="sendEmail()">
                     <div class="contact-icon">
                         <i class="fas fa-envelope"></i>
@@ -1730,6 +1723,32 @@
                     <h3>Email</h3>
                     <p>sachindhole766@gmail.com</p>
                     <p><small>Click to email</small></p>
+                </div>
+                <div class="contact-card" onclick="sendLinkdin()">
+                    <div class="contact-icon">
+                        <i class="fa-brands fa-linkedin-in"></i>
+                    </div>
+                    <h3>Linkdin</h3>
+                    <p>Sachin Dhole</p>
+                    <p><small>Click to Linkdin</small></p>
+                </div>
+
+                <div class="contact-card" onclick="sendGithub()">
+                    <div class="contact-icon">
+                        <i class="fa-brands fa-github"></i>
+                    </div>
+                    <h3>Github</h3>
+                    <p>Sachin Dhole</p>
+                    <p><small>Click to Linkdin</small></p>
+                </div>
+
+                <div class="contact-card" onclick="callPhone()">
+                    <div class="contact-icon">
+                        <i class="fas fa-phone"></i>
+                    </div>
+                    <h3>Phone</h3>
+                    <p>+91 9309784119</p>
+                    <p><small>Click to call</small></p>
                 </div>
                 <div class="contact-card" onclick="openWhatsApp()">
                     <div class="contact-icon">
@@ -1840,6 +1859,14 @@
 
         function sendEmail() {
             window.location.href = 'mailto:sachindhole766@gmail.com';
+        }
+        function sendLinkdin() {
+
+            window.open('https://www.linkedin.com/in/sachin-dhole-953501268/', '_blank');
+        }
+        function sendGithub() {
+            window.open('https://github.com/sachin-git-80', '_blank');
+
         }
 
         function openWhatsApp() {
@@ -1977,5 +2004,3 @@
 
 
 </html>
-
-
