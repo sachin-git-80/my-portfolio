@@ -3,7 +3,7 @@
 **Full Stack .NET Developer | ASP.NET MVC | C# | SQL Server**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome)](https://sachindhole.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachin-dhole-9b2b4a2a4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachin-dhole-953501268/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:sachindhole766@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-green?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/sachindhole/sachindhole/raw/main/Sachin-Dhole-Resume.pdf)
 
